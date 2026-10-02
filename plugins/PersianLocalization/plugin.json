@@ -1,0 +1,7 @@
+{
+  "name": "PersianLocalization",
+  "description": "Complete Persian (Farsi) translations and RTL UI for Matomo. Survives core updates when kept as a separate plugin.",
+  "version": "1.0.0",
+  "license": "GPL v3 or later",
+  "homepage": "https://github.com/foroshgahsaz/matomo"
+}

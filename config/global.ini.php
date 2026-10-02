@@ -1351,6 +1351,7 @@ Plugins[] = FeatureFlags
 Plugins[] = AIAgents
 Plugins[] = BotTracking
 Plugins[] = AIProviders
+Plugins[] = PersianLocalization
 
 [PluginsInstalled]
 PluginsInstalled[] = Diagnostics
